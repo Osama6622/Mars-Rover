@@ -1,4 +1,6 @@
-# Mars Rover Task Solution
+# Mars Rover
+Task solution
+
 
 ## Setup
 1. Download the repo in your Local.
